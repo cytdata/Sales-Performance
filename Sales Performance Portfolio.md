@@ -13,7 +13,8 @@ The 2023 results are based on historical data analysis. The dashboard shows how 
 #### 2-2 Data Structure
 
 **Data Structure**
-![schema](https://github.com/user-attachments/assets/04926770-32de-4dbc-bc9c-30d205c79f23)
+![Data Structure](https://github.com/user-attachments/assets/13af5c93-d863-45be-8dbc-d416f2cefedf)
+
 
 **Key Features**   
 `role_status`: Current role of the customer.  
@@ -40,9 +41,10 @@ Based on insights from EDA, including optimizing customer service processes, imp
 The strongest marketing drivers were friend referrals, search engine marketing, and walk-in customers, each with over 40% growth in conversion.
 
 Below is the overview page from the Tableau dashboard and more examples are included throughout the report.  
-The entire interactive dashboard can be downloaded [here.](https://public.tableau.com/app/profile/cytdata/viz/SalesPerformance_17417274100470/1)  
+The entire interactive dashboard can be downloaded[here.](https://public.tableau.com/app/profile/cytdata/viz/SalesPerformance_17417274100470/1) 
 
-![Sales Dashboard (1)](https://github.com/user-attachments/assets/31c8bb93-7e15-479d-ba40-00fed58c09cd)
+![Sales Dashboard ](https://github.com/user-attachments/assets/b1c0e49a-6f5d-4b20-ae6d-2847efeeba7f)
+
 
 
 
@@ -64,9 +66,9 @@ The entire interactive dashboard can be downloaded [here.](https://public.tablea
 * A high proportion of the audience consists of students. This strong focus on the student market leads to clear seasonal fluctuations in sales.
 
 
-## 5- Conclusion
-Based on the demographic and sales analysis, several key insights have been identified:
+## 5- Conclusion  
 
+Based on the demographic and sales analysis, several key insights have been identified:
 * The primary customer base consists of **male college students aged 19–27**, contributing to a significant portion of total sales.
 * Due to the heavy reliance on the student segment, sales exhibit **noticeable seasonal fluctuations**, especially during summer and winter breaks.
 * **The student segment has a relatively short customer lifecycle.** Once students graduate, they often leave the customer base, making it difficult to build long-term customer relationships.
@@ -75,8 +77,8 @@ Based on the demographic and sales analysis, several key insights have been iden
 * Despite higher conversion rates across channels during the pandemic, revenue declined in 2021 due to overall decreased consumer spending.
 * In contrast, **sales rebounded in 2022 (+31.3%) and further improved in 2023, with a 25.3% increase in revenue and a 41.9% increase in order volume**, highlighting the success of revised marketing strategies and conversion improvements.
 
+  
 Based on these insights, the following recommendations are proposed:
-
 * **Diversify the customer base beyond students** to reduce overdependence on a single segment. The student segment's short lifecycle poses a challenge to building a stable long-term customer base. Expanding into young professionals or working adults could help balance the revenue structure.
 * **Enhance word-of-mouth strategies such as repeat purchase incentives and referral programs.** These channels have proven effective (e.g., referrals by friends had a 53.3% conversion rate) and can help increase Customer Lifetime Value (LTV) through stronger engagement and loyalty.
 * **Introduce more flexible payment options** to address affordability concerns, particularly for price-sensitive groups like students.
