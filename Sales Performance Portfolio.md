@@ -41,7 +41,7 @@ Based on insights from EDA, including optimizing customer service processes, imp
 The strongest marketing drivers were friend referrals, search engine marketing, and walk-in customers, each with over 40% growth in conversion.
 
 Below is the overview page from the Tableau dashboard and more examples are included throughout the report.  
-The entire interactive dashboard can be downloaded[here.](https://public.tableau.com/app/profile/cytdata/viz/SalesPerformance_17417274100470/1) 
+The entire interactive dashboard can be downloaded [here.](https://public.tableau.com/app/profile/cytdata/viz/SalesPerformance_17417274100470/1) 
 
 ![Sales Dashboard ](https://github.com/user-attachments/assets/b1c0e49a-6f5d-4b20-ae6d-2847efeeba7f)
 
