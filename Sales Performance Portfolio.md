@@ -80,7 +80,7 @@ Based on the demographic and sales analysis, several key insights have been iden
   
 Based on these insights, the following recommendations are proposed:
 * **Diversify the customer base beyond students** to reduce overdependence on a single segment. The student segment's short lifecycle poses a challenge to building a stable long-term customer base. Expanding into young professionals or working adults could help balance the revenue structure.
-* **Enhance word-of-mouth strategies such as repeat purchase incentives and referral programs.** These channels have proven effective (e.g., referrals by friends had a 53.3% conversion rate) and can help increase Customer Lifetime Value (LTV) through stronger engagement and loyalty.
+* **Enhance word-of-mouth strategies such as repeat purchase incentives and referral programs.** These channels have proven effective (e.g. referrals by friends had a 53.3% conversion rate) and can help increase Customer Lifetime Value (LTV) through stronger engagement and loyalty.
 * **Introduce more flexible payment options** to address affordability concerns, particularly for price-sensitive groups like students.
 * **Replicate successful seasonal campaign strategies** observed in Q3 2023 to drive performance in other quarters. Focused execution and timing appear to play a critical role in lead generation and conversion.
 
